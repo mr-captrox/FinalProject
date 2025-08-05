@@ -1,5 +1,6 @@
 {
   "name": "ex",
+  "name1": "example",
   "version": "1.0.0",
   "description": "Description",
   "main": "index.js",
@@ -16,3 +17,5 @@
     "nodemon": "^3.1.10"
   }
 }
+
+  
